@@ -3,7 +3,7 @@
 	Here is the public repository link, https://github.com/CharlesJiang168/SFFoodTrucks
 	
 2. 	Hosted on www.biz.nf
-	Here is the URL to visit my web service, http://sffoodtrucks.co.nf
+	Here is the URL to visit my web service, http://www.sffoodtrucks.co.nf
 	
 3. 	File included
 	- index.html (the home page source file)
